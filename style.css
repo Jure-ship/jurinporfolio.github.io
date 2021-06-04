@@ -623,6 +623,8 @@ justify-content: center;
       resize: vertical;
     }
     button[type="submit"] {
+      position:relative;
+      z-index:3;
       width: 40%;
       border: none;
       outline: none;
