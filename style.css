@@ -748,7 +748,7 @@ justify-content: center;
       color: #9e9e9e;
       height: 100px;
     }
-    @media screen and (min-width: 320px) and (max-width: 574px)  {
+    @media screen and (min-width: 420px) and (max-width: 600px)  {
       .bot {
         width: 100vw;
         min-height: 70vh;
